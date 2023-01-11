@@ -1,0 +1,11 @@
+C:\Users\Rapier\source\repos\RecipeBook.Api\bin\Debug\RecipeBook.Api.deps.json
+C:\Users\Rapier\source\repos\RecipeBook.Api\bin\Debug\RecipeBook.Api.runtimeconfig.json
+C:\Users\Rapier\source\repos\RecipeBook.Api\bin\Debug\appsettings.Development.json
+C:\Users\Rapier\source\repos\RecipeBook.Api\bin\Debug\appsettings.json
+C:\Users\Rapier\source\repos\RecipeBook.Api\bin\Debug\RecipeBook.Api.staticwebassets.runtime.json
+C:\Users\Rapier\source\repos\RecipeBook.Api\bin\Debug\RecipeBook.Api.exe
+C:\Users\Rapier\source\repos\RecipeBook.Api\bin\Debug\RecipeBook.Api.dll
+C:\Users\Rapier\source\repos\RecipeBook.Api\bin\Debug\RecipeBook.Api.pdb
+C:\Users\Rapier\source\repos\RecipeBook.Api\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\Rapier\source\repos\RecipeBook.Api\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\Rapier\source\repos\RecipeBook.Api\obj\Debug\docker-compose.dcproj.CopyComplete
